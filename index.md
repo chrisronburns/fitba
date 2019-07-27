@@ -1,4 +1,4 @@
-Privacy Policy
+# Privacy Policy
 
 appeo built the Fitba app as an Ad Supported app. This SERVICE is provided by appeo at no cost and is intended for use as is.
 
